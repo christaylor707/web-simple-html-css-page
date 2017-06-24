@@ -1,11 +1,25 @@
-h1 {
-  font-family: Verdana;
-  font-size: 28px;
-  color: black;
+body {
+  background-color: #E2E4E3;
 }
 
-p {
-  font-family: Verdana;
-  font-size: 18px;
-  color: blue;
+main {
+  background-color: #ffffff;
+  border: 2px solid #00404E;
+  width: 500px;
+  margin: auto;
+}
+
+h1 {
+  color: #00404E;
+  text-align: center;
+  font-size: 3rem;
+}
+
+
+img {
+  width: 100%;
+}
+
+a:hover {
+    color: #FF00FF;
 }
